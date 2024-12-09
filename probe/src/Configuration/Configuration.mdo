@@ -35,6 +35,8 @@
     <languageCode>ru</languageCode>
   </languages>
   <subsystems>Subsystem.Главная</subsystems>
+  <functionalOptions>FunctionalOption.ИспользоватьПроекты</functionalOptions>
+  <constants>Constant.ИспользоватьПроекты</constants>
   <catalogs>Catalog.Валюты</catalogs>
   <catalogs>Catalog.гвк_Проекты</catalogs>
   <catalogs>Catalog.Услуги</catalogs>
