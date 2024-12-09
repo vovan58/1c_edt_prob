@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="510625b3-bc0a-4f46-badf-121d84db0ff4">
+  <producedTypes>
+    <managerType typeId="27f90f17-baed-4895-9a5e-34d48b9e29f8" valueTypeId="ccc64169-acb9-4237-b072-5cf51c827448"/>
+    <valueManagerType typeId="352a3956-0892-44c1-aae9-3992dc3851f6" valueTypeId="6a897eb3-e64d-47be-be72-fcbf13699ff6"/>
+    <valueKeyType typeId="be27c41a-ac8b-421b-a810-7b733afde3ad" valueTypeId="2105b3eb-89cd-4699-8841-4cc72d9f9c86"/>
+  </producedTypes>
+  <name>ИспользоватьПроекты</name>
+  <synonym>
+    <key>ru</key>
+    <value>Использовать проекты</value>
+  </synonym>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>
